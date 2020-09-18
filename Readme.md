@@ -1,3 +1,8 @@
+# Instrucciones
+## Alternativas de solución
+
+Las siguientes son alternativas de solución a la tarea 1 de HTML y CSS
+
 0) Abrir una linea de comandos de PowerShell
 
 1) Crear una carpeta de trabajo (02-Web_CSS_Practica)
