@@ -45,7 +45,7 @@ Buscar en Find in Files lo siguiente
 
 9) Copiar esas etiquetas en vuestro archivo Html de respuesta. Entre los <body></body>
 
-y con un <h3>Numero del Ejercicio</h3> Podreis buscar las etiquetas h1 y reemplazarlas al final
+y con un `<h3> Numero del Ejercicio </h3>` Podreis buscar las etiquetas h1 y reemplazarlas al final
 
 9) Aqui ya teneis el 70% del trabajo hecho y solo bastaria terminarlo de enmaquetar en vuestro proyecto.
 
